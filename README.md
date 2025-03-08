@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to DreamStream
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/3636dac9-c109-42c2-a865-fbddbb37ca5a
+  <a> Please add your FIREBASE Environment variables to the config.env file. 
+  </a>
 
 **Notes from Siddhesh**
 
@@ -23,16 +23,11 @@
 
 
 Make sure you are using correct node/npm version.
-I use Linux to push/pull/commit git requests. LF are line endings which affect spacing across different OS. Linux -> LF and Windows -> CRLF.
-Please be careful with line endings using windows.
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/3636dac9-c109-42c2-a865-fbddbb37ca5a) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -82,10 +77,3 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3636dac9-c109-42c2-a865-fbddbb37ca5a) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
